@@ -1,0 +1,12 @@
+{
+  "put": "/test/put",
+  "getCsv": "/test/get/csv",
+  "update": "/test/update",
+  "putLog": "/test/put/log",
+  "getToken": "/token/get",
+  "putAttachment": "/test/put/attachment",
+  "updateAuthor": "/test/update/author",
+  "getJson": "/test/get/json",
+  "updateDevInfo": "/test/update/devInfo",
+  "getXml": "/test/get/xml"
+}

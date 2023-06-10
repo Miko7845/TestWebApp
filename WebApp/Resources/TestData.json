@@ -1,0 +1,10 @@
+{
+  "login": "login",
+  "password": "password",
+  "cookieKey": "token",
+  "version": "Version: 2",
+  "nexage": "Nexage",
+  "successAlert": "saved",
+  "logsPath": "Log/log.log",
+  "screenshotType": "image/png"
+}
